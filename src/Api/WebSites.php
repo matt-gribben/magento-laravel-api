@@ -13,6 +13,6 @@ class WebSites extends AbstractApi
      */
     public function all()
     {
-        return $this->get('/inventory/stocks');
+        return $this->get('/store/websites');
     }
 }
