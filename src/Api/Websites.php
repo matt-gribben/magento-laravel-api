@@ -2,7 +2,7 @@
 
 namespace Grayloon\Magento\Api;
 
-class WebSites extends AbstractApi
+class Websites extends AbstractApi
 {
     /**
      * storeWebsiteRepositoryV1
